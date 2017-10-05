@@ -13,3 +13,7 @@ mac 使用环境的搭建， TIPS
 
 
 
+Testing image
+
+![](https://raw.githubusercontent.com/junhunt/mac_workflow/master/images/img1.png)
+
