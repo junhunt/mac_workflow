@@ -1,19 +1,16 @@
 # mac_workflow
-mac 使用环境的搭建， TIPS
+Mac 使用环境的搭建， TIPS
 
-> 水平有限～欢迎提问～尽量不回答～
+> 此 project 用于 Mac 使用技能和经验的记录，遐想建设 Mac 高效工作流。
+>
+> 多为网络资源的整理或摘抄。如果有侵权现象请提交 **issues** 告之一下。
 
-###  Homebrew
+[Homebrew](https://github.com/junhunt/mac_workflow/blob/master/contents/homebrew.md)
 
-### 常用软件
+[常用软件](https://github.com/junhunt/mac_workflow/blob/master/contents/常用软件.md)
 
-下面是图片测试
-
-![img1](/Users/Jun/Junhunter/mac_workflow/images/img1.png)
+[aria2]()
 
 
 
-Testing image
-
-![](https://raw.githubusercontent.com/junhunt/mac_workflow/master/images/img1.png)
-
+[aria2]: https://github.com/junhunt/mac_workflow/blob/master/contents/aria2.md
