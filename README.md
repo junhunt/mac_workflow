@@ -10,3 +10,9 @@ Mac 使用环境的搭建， TIPS
 [常用软件](https://github.com/junhunt/mac_workflow/blob/master/contents/常用软件.md)
 
 [aria2](https://github.com/junhunt/mac_workflow/blob/master/contents/aria2.md)
+
+
+
+测试图片
+
+![](images/pic.png)
