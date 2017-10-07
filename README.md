@@ -7,7 +7,7 @@ Mac 使用环境的搭建， TIPS
 
 [Homebrew](https://github.com/junhunt/mac_workflow/blob/master/contents/homebrew.md)
 
-[常用软件](https://github.com/junhunt/mac_workflow/blob/master/contents/常用软件.md)
+[常用软件](https://github.com/junhunt/mac_workflow/blob/master/contents/usual_software.md)
 
 [aria2](https://github.com/junhunt/mac_workflow/blob/master/contents/aria2.md)
 

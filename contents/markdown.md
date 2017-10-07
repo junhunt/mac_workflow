@@ -3,11 +3,11 @@
 ### 相对路径跳转项目內其他文件
 
 ```
-[查看常用软件](常用软件.md)
+[查看常用软件](usual_software.md)
 [查看README](../README.md)
 ```
 
-[查看常用软件](常用软件.md)
+[查看常用软件](usual_software.md)
 
 [查看README](../README.md)
 

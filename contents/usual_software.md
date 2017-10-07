@@ -1,9 +1,12 @@
-# 常用软件
+# usual software
 
-### 应用管理软件
-- Homebrew（需安装 Xcode，GUI：[Cakebrew](https://www.cakebrew.com/)）
+注：HB 和 HBC 分别为支持 brew 和 brew cask 安装，关于使用 Homebrew 安装软件可参考[此文档](homebrew.md)
 
-### 编程工具
+### Software manager
+- Homebrew（需安装 Xcode）
+- [Cakebrew - Homebrew's GUI](https://www.cakebrew.com/)
+
+### Coding
 - Xcode
 - [iTerm2(HBC)](http://www.iterm2.com)
 - [Sourcetree(HBC)](https://www.sourcetreeapp.com/)
@@ -12,21 +15,29 @@
 - python3(HB)
 - pycharm-edu(HBC)
 - Sublime Text 2
+- Atom(HBC)
 - App Icon Gear
 - Wireshark
+- Dash
+- iOS Images Extractor
 
-### BW
+### Break wall
 - [ShadowsocksX-NG(HBC)](https://github.com/shadowsocks/ShadowsocksX-NG)
 - [lantern(HBC)](https://getlantern.org)
 - SpechLite
 
-### 录屏软件
+### Capture
 - [GIPHY Capture](https://giphy.com/apps/giphycapture)
 - [LICEcap(HBC)](https://www.cockos.com/licecap/)
 
-### 其他
-
-- 微信 QQ(HBC)
+### Other
+- Typora(HBC)
+- Karabiner-Elements(HBC)
+- IINA(HBC)
+- Day One
+- MindNode
+- wechat 
+- QQ(HBC)
 - CheatSheet
 - [f.lux(HBC)](https://justgetflux.com)
 - [snap](https://itunes.apple.com/cn/app/snap/id418073146?mt=12)
@@ -38,16 +49,9 @@
 - NeteaseMusic(HBC)
 - Dropbox(HBC)
 - Alfred(HBC)
-- Typora(HBC)
 - Lastpass(HBC)
-- Karabiner-Elements(HBC)
-- IINA(HBC)
-- Day One
-- MindNode
 - Pocket
 - Worktile
-
-
 
 
 - Mark Man
@@ -58,3 +62,4 @@
 - iPic
 - Itsycal
 - Popcorn-Time
+- Vysor
