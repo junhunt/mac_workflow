@@ -48,3 +48,6 @@ $
 [回到顶部](#markdown)
 
 [转到**相对路径插入图片**](#相对路径插入图片)
+
+## MORE
+[README文件语法解读](https://github.com/guodongxiaren/README)
