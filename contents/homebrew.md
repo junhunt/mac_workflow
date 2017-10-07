@@ -2,8 +2,6 @@
 
 Homebrew 是 Mac 下的应用管理工具（？），通过命令行安装和管理软件。需要安装 Xcode。
 
-极客学院是中国最大的 IT 职业在线教育平台。[[锚点名]](#footnode)
-
 ### 安装和卸载
 
 ```
@@ -87,8 +85,6 @@ brew cask install <formula>
 - licecap
 - flux
 ```
-
-[锚点名]<a name="footnode"></a>我的示例。
 
 ### MORE
 
