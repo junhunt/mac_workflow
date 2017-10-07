@@ -4,7 +4,7 @@
 
 ```
 [查看常用软件](常用软件.md)
-[查看README](readme.md)
+[查看README](../readme.md)
 ```
 
 [查看常用软件](常用软件.md)
