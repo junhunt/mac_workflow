@@ -126,7 +126,8 @@ aria2c --conf-path=<PATH>
 [[使用Aria2下载百度网盘和115的资源](https://blog.icehoney.me/posts/2015-01-31-Aria2-download)](https://blog.icehoney.me/posts/2015-01-31-Aria2-download)
 
 [Aria2 & YAAW 使用说明](http://aria2c.com/usage.html)
-
+[YAAW](http://binux.github.io/yaaw/)
+[YAAW-demo](http://binux.github.io/yaaw/demo/)
 [aria2gui](https://github.com/yangshun1029/aria2gui)
-
+[aria2c](http://aria2c.com/)
 [metalinker](http://www.metalinker.org/)
