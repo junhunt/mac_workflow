@@ -38,7 +38,7 @@ defaults write com.apple.finder AppleShowAllFiles -bool false
 - 计算源码行数
 
 ```
-http://www.jianshu.com/p/e5063e5f4fd7
+# http://www.jianshu.com/p/e5063e5f4fd7
 find . "(" -name "*.m" -or -name "*.mm" -or -name "*.cpp" -or -name "*.h" -or -name "*.rss" ")" -print | xargs wc -l
 s
 ```
