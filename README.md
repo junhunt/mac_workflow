@@ -12,3 +12,5 @@ Mac 使用环境的搭建， TIPS
 [aria2](https://github.com/junhunt/mac_workflow/blob/master/contents/aria2.md)
 
 [Markdown](contents/markdown.md)
+
+[ternimal](contents/ternimal.md)
