@@ -9,8 +9,8 @@ Mac 使用环境的搭建， TIPS
 
 [常用软件](https://github.com/junhunt/mac_workflow/blob/master/contents/usual_software.md)
 
-[aria2](https://github.com/junhunt/mac_workflow/blob/master/contents/aria2.md)
+[Aria2](https://github.com/junhunt/mac_workflow/blob/master/contents/aria2.md)
 
 [Markdown](contents/markdown.md)
 
-[ternimal](contents/ternimal.md)
+[Terminal](contents/terminal.md)
