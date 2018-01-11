@@ -8,51 +8,51 @@
 
 ### Coding
 - Xcode
-- [iTerm2(HBC)](http://www.iterm2.com)
-- [Sourcetree(HBC)](https://www.sourcetreeapp.com/)
+- [iTerm2(HBC:iterm2)](http://www.iterm2.com)
+- [Sourcetree(HBC:sourcetree)](https://www.sourcetreeapp.com/)
 - cocoapods(HB)
 - carthage(HB)
 - python3(HB)
-- pycharm-edu(HBC)
+- pycharm-edu(HBC:pycharm-edu)
 - Sublime Text 2
-- Atom(HBC)
+- Atom(HBC:atom)
 - App Icon Gear
 - Wireshark
-- Dash
+- Dash(HBC:dash)
 - iOS Images Extractor
 
 ### Break wall
-- [ShadowsocksX-NG(HBC)](https://github.com/shadowsocks/ShadowsocksX-NG)
-- [lantern(HBC)](https://getlantern.org)
+- [ShadowsocksX-NG(HBC:shadowsocksx-ng)](https://github.com/shadowsocks/ShadowsocksX-NG)
+- [lantern(HBC:lantern)](https://getlantern.org)
 - SpechLite
 
 ### Capture
 - [GIPHY Capture](https://giphy.com/apps/giphycapture)
-- [LICEcap(HBC)](https://www.cockos.com/licecap/)
+- [LICEcap(HBC:licecap)](https://www.cockos.com/licecap/)
 
 ### Other
-- Typora(HBC)
-- Karabiner-Elements(HBC)
-- IINA(HBC)
+- Typora(HBC:typora)
+- Karabiner-Elements(HBC:karabiner-elements)
+- IINA(HBC:iina)
 - Day One
 - MindNode
-- wechat 
-- QQ(HBC)
-- CheatSheet
+- wechat
+- QQ(HBC:qq)
+- [CheatSheet--Just hold the ⌘-Key a bit longer to get a list of all active short cuts of the current application. It's as simple as that.](https://www.mediaatelier.com/CheatSheet/)  
 - [f.lux(HBC)](https://justgetflux.com)
 - [snap](https://itunes.apple.com/cn/app/snap/id418073146?mt=12)
 - [Spark](https://sparkmailapp.com/)
-- AppCleaner(HBC)
-- LibreOffice(HBC)
-- Unarchiver(HBC)
-- EuDic Free(HBC)
-- NeteaseMusic(HBC)
-- Dropbox(HBC)
-- Alfred(HBC)
-- Lastpass(HBC)
+- AppCleaner
+- LibreOffice(HBC:libreoffice)
+- Unarchiver(HBC:the-unarchiver)
+- EuDic Free(HBC:eudic)
+- NeteaseMusic(HBC:neteasemusic)
+- Dropbox(HBC:dropbox)
+- Alfred(HBC:alfred)
+- Lastpass(HBC:lastpass)
 - Pocket
-- Worktile
-
+- [trello](https://trello.com/)  
+- Google Drive(HBC:google-drive-file-stream)
 
 - Mark Man
 - Fuse
