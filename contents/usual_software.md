@@ -38,7 +38,9 @@
 - MindNode
 - wechat
 - QQ(HBC:qq)
-- [CheatSheet--Just hold the ⌘-Key a bit longer to get a list of all active short cuts of the current application. It's as simple as that.](https://www.mediaatelier.com/CheatSheet/)  
+- [CheatSheet](https://www.mediaatelier.com/CheatSheet/)  
+Just hold the ⌘-Key a bit longer to get a list of all active short cuts of the current application. It's as simple as that.
+
 - [f.lux(HBC)](https://justgetflux.com)
 - [snap](https://itunes.apple.com/cn/app/snap/id418073146?mt=12)
 - [Spark](https://sparkmailapp.com/)
