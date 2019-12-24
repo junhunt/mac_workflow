@@ -84,6 +84,7 @@ brew cask install <formula>
 - lantern
 - licecap
 - flux
+- go2shell
 ```
 
 ### MORE

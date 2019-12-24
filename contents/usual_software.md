@@ -20,6 +20,8 @@
 - Wireshark
 - Dash(HBC:dash)
 - iOS Images Extractor
+- go2shell
+- cocoapods (sudo gem install cocoapods)
 
 ### Break wall
 - [ShadowsocksX-NG(HBC:shadowsocksx-ng)](https://github.com/shadowsocks/ShadowsocksX-NG)
